@@ -5,7 +5,7 @@
 <h1 align="center">🎙️ Da Linha ao Gráfico</h1>
 
 <p align="center">
-  Um podcast sobre tecnologia da informação com foco em dados, feito com apoio de IA (Gemini) para roteirização e produção dos episódios.
+  Um podcast sobre tecnologia da informação com foco em dados.
 </p>
 
 ---
