@@ -29,8 +29,8 @@ Este repositório reúne os materiais de produção do podcast **Da Linha ao Gr�
 
 Os prompts em [`src/prompts/gemini.md`](src/prompts/gemini.md) são usados no Gemini para:
 
-1. **Título** — gerar sugestões de título e subtítulo para o episódio, com trocadilhos voltados ao público de dados/TI.
-2. **Conteúdo** — gerar o roteiro do episódio, com linguagem coesa e envolvente para diferentes públicos.
+1. **Título** — gerar sugestões de título e subtítulo para o episódio, com trocadilhos voltados ao público de dados/TI, seguindo regras específicas de idioma e tom.
+2. **Conteúdo** — gerar o roteiro do episódio, com linguagem coesa e envolvente para diferentes públicos, seguindo regras próprias de estilo e ritmo.
 
 Os episódios finais são salvos na pasta [`output/`](output/).
 
